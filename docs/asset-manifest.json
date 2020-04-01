@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/2020-04-01-Interactive-Calculator/static/css/main.43e1fe5c.chunk.css",
+    "main.js": "/2020-04-01-Interactive-Calculator/static/js/main.6425eb65.chunk.js",
+    "main.js.map": "/2020-04-01-Interactive-Calculator/static/js/main.6425eb65.chunk.js.map",
+    "runtime-main.js": "/2020-04-01-Interactive-Calculator/static/js/runtime-main.e79454f4.js",
+    "runtime-main.js.map": "/2020-04-01-Interactive-Calculator/static/js/runtime-main.e79454f4.js.map",
+    "static/css/2.de424728.chunk.css": "/2020-04-01-Interactive-Calculator/static/css/2.de424728.chunk.css",
+    "static/js/2.c8f3996e.chunk.js": "/2020-04-01-Interactive-Calculator/static/js/2.c8f3996e.chunk.js",
+    "static/js/2.c8f3996e.chunk.js.map": "/2020-04-01-Interactive-Calculator/static/js/2.c8f3996e.chunk.js.map",
+    "index.html": "/2020-04-01-Interactive-Calculator/index.html",
+    "precache-manifest.59bef3116309b351c4e4b76a187babc0.js": "/2020-04-01-Interactive-Calculator/precache-manifest.59bef3116309b351c4e4b76a187babc0.js",
+    "service-worker.js": "/2020-04-01-Interactive-Calculator/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/2020-04-01-Interactive-Calculator/static/css/2.de424728.chunk.css.map",
+    "static/css/main.43e1fe5c.chunk.css.map": "/2020-04-01-Interactive-Calculator/static/css/main.43e1fe5c.chunk.css.map",
+    "static/js/2.c8f3996e.chunk.js.LICENSE.txt": "/2020-04-01-Interactive-Calculator/static/js/2.c8f3996e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79454f4.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c8f3996e.chunk.js",
+    "static/css/main.43e1fe5c.chunk.css",
+    "static/js/main.6425eb65.chunk.js"
+  ]
+}

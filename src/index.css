@@ -1,5 +1,49 @@
 
+
+.app-container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
 .calculator {
   display: grid;
-  
+  grid-template: 1fr 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+  grid-template-areas:
+    "output output output output"
+    "buttonClr buttonDiv buttonMlt buttonSub"
+    "button7 button8 button9 buttonAdd"
+    "button4 button5 button6 buttonAdd"
+    "button1 button2 button3 buttonEql"
+    "button0 button0 buttonDot buttonEql";
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 367px;
+  height: 533px;
+  padding: 20px;
+}
+
+.calculator>* {
+  /* mar */
+}
+
+.output {
+  border: black solid 1px;
+  border-radius: 5px;
+  background-color: #EEE;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  font-size: 3em;
+  padding: 10px;
+  overflow: hidden;
+}
+
+button:focus {
+  background-color: unset;
 }
